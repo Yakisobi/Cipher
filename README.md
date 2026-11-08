@@ -6,5 +6,8 @@ if you are giving my project a shot, thank you so much!
 
 made using Pycharm
 
+(STILL IN BETA)
+
+
 
 - Yakisobi (@Yakisobi on YT)
